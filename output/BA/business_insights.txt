@@ -1,0 +1,8 @@
+BUSINESS INSIGHTS - STOCK ANALYSIS
+================================================================================
+
+1. BEST PERFORMER: META with 137.22% return
+2. WORST PERFORMER: AAPL with 49.78% return
+3. HIGHEST VOLATILITY: META
+4. LOWEST VOLATILITY: MSFT
+5. MOST TRADED: AAPL with avg volume 56,172,344

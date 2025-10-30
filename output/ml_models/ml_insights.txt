@@ -1,0 +1,12 @@
+MACHINE LEARNING INSIGHTS
+================================================================================
+
+1. BEST OVERALL MODEL: Linear Regression (AAPL) with R²=0.9986
+2. MOST CONSISTENT MODEL: Linear Regression with avg R²=0.9884
+3. LEAST OVERFITTING: Ridge Regression (AAPL) with 0.0006
+4. HIGHEST ACCURACY: Ridge Regression (MSFT) with MAPE=0.24%
+
+5. RECOMMENDATIONS:
+   - For production: Choose models with R² > 0.85 and low overfitting
+   - For stability: Prefer ensemble methods (Random Forest, XGBoost)
+   - For interpretability: Consider Linear/Ridge/Lasso if performance is acceptable
