@@ -308,8 +308,8 @@ class StockETL:
 if __name__ == "__main__":
     DB_CONFIG = {
         'host': 'localhost',
-        'user': 'root',
-        'password': 'Huyquan160720040@',
+        'user': 'user_name',
+        'password': 'your_password',
         'database': 'stock_analysis'
     }
 
